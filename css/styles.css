@@ -1,0 +1,163 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.id{
+  width: 200px;
+}
+
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #1b1b1b;
+  border-width: 5px;
+  width: 5%;}
+
+
+h1 {
+  color: #66BFBF;
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+}
+
+h2 {
+ 
+  color: #66BFBF ;
+  font-family: 'Merriweather', serif;
+  font-size: 1.875rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-family: 'Merriweather', serif
+}
+
+.top-container {
+  background-color: #1b1b1b;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  padding: 100px 100px 10px;
+  background-color: #1b1b1b;
+
+}
+
+.middle-container {
+  padding: 100px 0px 0px;
+  
+}
+
+.Contact-me{
+  background-color: #1b1b1b;
+  
+}
+
+
+p{
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+}
+  
+
+.Civil {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.top-cloud {
+  position: relative;
+  left: 250px;
+}
+
+a {
+  color:#66BFBF;
+  margin: 10px 10px; 
+  text-decoration: none;
+}
+
+a:hover {
+  color: #cfcfcf;
+}
+
+.AutoCAD {
+  float: left;
+ margin-right: 30px;
+}
+
+.Microsoft {
+float: right;
+margin-left: 20px;
+}
+
+.web-development {
+  float: left;
+  margin-right: 30px;
+}
+
+.office-head{ 
+  position: relative;
+  margin-left: 450px;
+}
+
+.microsoft-text{
+ position: relative;
+ margin-left: 250px;
+}
+
+.copyright {
+  color: #cfcfcf;
+  font-size: 0.75rem;
+  padding: 0px 0px 20px 0px;
+}
+
+
+.btn {
+  background: #c7c3c7;
+  background-image: -webkit-linear-gradient(top, #c7c3c7, #c7c5c7);
+  background-image: -moz-linear-gradient(top, #c7c3c7, #c7c5c7);
+  background-image: -ms-linear-gradient(top, #c7c3c7, #c7c5c7);
+  background-image: -o-linear-gradient(top, #c7c3c7, #c7c5c7);
+  background-image: linear-gradient(to bottom, #c7c3c7, #c7c5c7);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: Arial;
+  color: #1b1b1b;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #ffffff 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #787478;
+  background-image: -webkit-linear-gradient(top, #787478, #787478);
+  background-image: -moz-linear-gradient(top, #787478, #787478);
+  background-image: -ms-linear-gradient(top, #787478, #787478);
+  background-image: -o-linear-gradient(top, #787478, #787478);
+  background-image: linear-gradient(to bottom, #787478, #787478);
+  text-decoration: none;
+}
